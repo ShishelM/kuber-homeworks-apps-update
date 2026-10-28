@@ -95,7 +95,7 @@ kubectl rollout undo deployment/netology-app -n app
 kubectl rollout status deployment/netology-app -n app
 kubectl get deployment netology-app -n app -o wide
 ```
-![alt text](img/img/image-5.png)
+![alt text](img/image-5.png)
 
 ---
 
